@@ -1,0 +1,7 @@
+to buy:
+300: 3
+400: 39
+600: 2
+800: 17
+resistors with most inventory:
+1000: 310
